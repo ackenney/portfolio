@@ -20,3 +20,108 @@ body{
     display: grid;
     grid-template-columns: repeat(2,1fr);
 }
+
+h2,.white{
+    color: #B83346;
+}
+
+a{
+    color: #000000;
+    text-decoration: none;
+}
+
+
+/*contact section*/
+.my-contact{
+    padding-top: 40vh;
+    text-align: center; 
+}
+
+.my-contact p{
+    font-size: 1.0rem;
+    padding-bottom: 10px;
+    margin:0;
+    
+}
+
+.my-contact h2{
+    font-size: 1.7rem;
+    margin-bottom: 25px; 
+    
+}
+
+.my-contact h3{
+    font-size: 0.8rem;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.my-contact p2{
+    font-size: 0.8rem;
+    
+    margin-bottom: 5px;
+}
+
+
+.my-contact a{
+    font-size: 1.5rem;
+    padding: 10px;
+}
+
+
+/*resume section*/
+.resume{
+    padding-top: 10vh;
+    width: 70%;
+   
+    
+}
+
+.resume h2{
+    font-size: 1.7rem;
+    margin-bottom: 10px;
+    
+}
+
+.resume h3{
+    
+    font-size: 1.2rem;
+    padding-bottom: 0;
+    
+}
+
+.resume a2{
+    display: block;
+    padding: 5px;
+    font-size: 1.2rem;
+    width: 500px;
+    color: #000000;
+    /* #55B833 apple*/
+}
+
+.resume a3{
+    display: block;
+    padding: 5px;
+    font-size: 0.8rem;
+    padding-bottom: 10px;
+   
+    color: #000000;
+
+}
+
+.resume p{
+    font-size: .9rem;
+    padding-bottom: 10px;
+    margin:0;
+    
+    
+}
+
+.resume a{
+    display: block;
+    padding: 5px;
+    font-size: 1.2rem;
+    padding-left: 0;
+}
+
+
