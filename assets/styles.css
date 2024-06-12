@@ -58,7 +58,6 @@ a{
 
 .my-contact p2{
     font-size: 0.8rem;
-    
     margin-bottom: 5px;
 }
 
@@ -74,13 +73,10 @@ a{
     transition: 0.3s;
 }
 
-
 /*resume section*/
 .resume{
     padding-top: 10vh;
-    width: 70%;
-   
-    
+    width: 70%; 
 }
 
 .resume h2{
@@ -143,4 +139,18 @@ a{
     padding-left: 10px;
 }
 
+@media(max-width:780px){
+    .grid-2{
+        grid-template-columns: 1fr;
+    }
+    .my-contact{
+        padding:0;
+        padding-top: 5rem;
+    }
+    .resume{
+        padding: 0;
+        padding-left: 1.5rem;
+        padding-top: 2rem;
+    }
+}
 
