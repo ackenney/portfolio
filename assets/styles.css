@@ -10,8 +10,8 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'font', sans-serif;
-    background-color: #fdfdfd;
-    color: #757575;
+    background-color: #18181b;
+    color: #a1a1aa;
     padding-bottom: 50px;
 
 }
@@ -22,11 +22,11 @@ body{
 }
 
 h2,.white{
-    color: #000000;
+    color: #ffffff;
 }
 
 a{
-    color: #000000;
+    color: #14b8a6;
     text-decoration: none;
 }
 
@@ -68,7 +68,7 @@ a{
 }
 
 .my-contact a:hover{
-    color: #952f2f;
+    color: #0e7a6d;
     cursor: pointer;
     transition: 0.3s;
 }
@@ -97,7 +97,7 @@ a{
     padding: 5px;
     font-size: 1.2rem;
     width: 500px;
-    color: #000000;
+    color: #ffffff;
     /* #55B833 apple*/
 }
 
@@ -128,7 +128,7 @@ a{
 
 .resume a:hover{
     font-size: 1.3rem;
-    color: #952f2f;
+    color: #0e7a6d;
     cursor: pointer;
     transition: 0.2s;
     text-decoration: underline;
